@@ -1,0 +1,30 @@
+*{margin: 0;
+padding: 0;
+box-sizing: border-box;}
+
+.nav a:hover{background-color: rgb(194, 58, 8) !important;
+    color: white !important;}
+
+#logo{width: 8rem;}
+
+.heading-h1{height: 17vh;
+background-color: gray;}
+
+.social{width: 1.5rem;}
+
+main{min-height: 75vh;}
+
+.card img{
+    height: 10rem;
+}
+
+.card {border: 1px solid black !important;}
+
+footer{
+    background-color:gray;
+    height: 10vh;
+}
+
+form{
+border: 1px solid black;
+margin-top: 2vh;}
